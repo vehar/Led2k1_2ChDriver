@@ -123,168 +123,202 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=E663BFC3-3121-4AF1-93F7-C5D1AC2A5959
+Description=Variant_full
+AllowFabrication=0
+ParameterCount=1
+VariationCount=1
+Variation1=Designator=D5|UniqueId=\VKBPVYXQ|Kind=0|AlternatePart=LDK320AM33R
+ParamVariation1=ParameterName=Comment|VariantValue=LDK320AM33R
+ParamDesignator1=D5
+ParamVariation2=ParameterName=Component Name|VariantValue=IC,  LDO REGULATOR, LDK320AM33R, SOT23-5
+ParamDesignator2=D5
+ParamVariation3=ParameterName=Description|VariantValue=LDK320AM33R
+ParamDesignator3=D5
+ParamVariation4=ParameterName=Marking|VariantValue=LDK320AM33R
+ParamDesignator4=D5
+ParamVariation5=ParameterName=Value|VariantValue=LDK320AM33R
+ParamDesignator5=D5
+ParamVariationCount=5
+
+[Parameter2_1]
+Name=
+Value=
+
+[ProjectVariant2]
+UniqueID=6E717D2B-4FDC-4AA9-80ED-7DCC4CBFD4A6
+Description=Variant_axel
+AllowFabrication=0
+ParameterCount=1
+VariationCount=11
+Variation1=Designator=C11|UniqueId=\WCREKXWK|Kind=1|AlternatePart= 
+Variation2=Designator=C13|UniqueId=\GYNGEMOW|Kind=1|AlternatePart= 
+Variation3=Designator=R7|UniqueId=\XOVVFJTL|Kind=1|AlternatePart= 
+Variation4=Designator=R11|UniqueId=\HUBIGFRM|Kind=1|AlternatePart= 
+Variation5=Designator=X10|UniqueId=\XCORYACS|Kind=1|AlternatePart= 
+Variation6=Designator=X12|UniqueId=\YQFXLBIL|Kind=1|AlternatePart= 
+Variation7=Designator=X14|UniqueId=\SRVNSSYI|Kind=1|AlternatePart= 
+Variation8=Designator=R2|UniqueId=\ERRMSNQV|Kind=1|AlternatePart= 
+Variation9=Designator=VD1|UniqueId=\VOQJVIEP|Kind=1|AlternatePart= 
+Variation10=Designator=R5|UniqueId=\HPCHNUDK|Kind=1|AlternatePart= 
+Variation11=Designator=R9|UniqueId=\UXGSGEAM|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[Parameter3_1]
+Name=
+Value=
+
+[ProjectVariant3]
+UniqueID=D0E82077-F1E8-43F3-842A-86B2DC422ABB
+Description=Variant_UART
+AllowFabrication=0
+ParameterCount=0
+VariationCount=13
+Variation1=Designator=C8|UniqueId=\WLVDBLEJ|Kind=1|AlternatePart= 
+Variation2=Designator=C11|UniqueId=\WCREKXWK|Kind=1|AlternatePart= 
+Variation3=Designator=C13|UniqueId=\GYNGEMOW|Kind=1|AlternatePart= 
+Variation4=Designator=D3|UniqueId=\MBXXFNSS|Kind=1|AlternatePart= 
+Variation5=Designator=R1|UniqueId=\CGLIRIOF|Kind=1|AlternatePart= 
+Variation6=Designator=R5|UniqueId=\HPCHNUDK|Kind=1|AlternatePart= 
+Variation7=Designator=R7|UniqueId=\XOVVFJTL|Kind=1|AlternatePart= 
+Variation8=Designator=R9|UniqueId=\UXGSGEAM|Kind=1|AlternatePart= 
+Variation9=Designator=R11|UniqueId=\HUBIGFRM|Kind=1|AlternatePart= 
+Variation10=Designator=R12|UniqueId=\TFNYQRSP|Kind=1|AlternatePart= 
+Variation11=Designator=X10|UniqueId=\XCORYACS|Kind=1|AlternatePart= 
+Variation12=Designator=X12|UniqueId=\YQFXLBIL|Kind=1|AlternatePart= 
+Variation13=Designator=X14|UniqueId=\SRVNSSYI|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueID=00AC91CF-FF13-42A3-83D1-A71F4CC23F6B
+Description=Variant_TermoPhotoProg
+AllowFabrication=0
+ParameterCount=0
+VariationCount=6
+Variation1=Designator=C8|UniqueId=\WLVDBLEJ|Kind=1|AlternatePart= 
+Variation2=Designator=D3|UniqueId=\MBXXFNSS|Kind=1|AlternatePart= 
+Variation3=Designator=R1|UniqueId=\CGLIRIOF|Kind=1|AlternatePart= 
+Variation4=Designator=R2|UniqueId=\ERRMSNQV|Kind=1|AlternatePart= 
+Variation5=Designator=R12|UniqueId=\TFNYQRSP|Kind=1|AlternatePart= 
+Variation6=Designator=VD1|UniqueId=\VOQJVIEP|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[ProjectVariant5]
+UniqueID=F303CBD2-F255-492E-8E8F-DCAED79187C6
+Description=Variant_Basic
+AllowFabrication=0
+ParameterCount=0
+VariationCount=15
+Variation1=Designator=C8|UniqueId=\WLVDBLEJ|Kind=1|AlternatePart= 
+Variation2=Designator=X14|UniqueId=\SRVNSSYI|Kind=1|AlternatePart= 
+Variation3=Designator=X12|UniqueId=\YQFXLBIL|Kind=1|AlternatePart= 
+Variation4=Designator=X10|UniqueId=\XCORYACS|Kind=1|AlternatePart= 
+Variation5=Designator=VD1|UniqueId=\VOQJVIEP|Kind=1|AlternatePart= 
+Variation6=Designator=R12|UniqueId=\TFNYQRSP|Kind=1|AlternatePart= 
+Variation7=Designator=R11|UniqueId=\HUBIGFRM|Kind=1|AlternatePart= 
+Variation8=Designator=R9|UniqueId=\UXGSGEAM|Kind=1|AlternatePart= 
+Variation9=Designator=R7|UniqueId=\XOVVFJTL|Kind=1|AlternatePart= 
+Variation10=Designator=R5|UniqueId=\HPCHNUDK|Kind=1|AlternatePart= 
+Variation11=Designator=R2|UniqueId=\ERRMSNQV|Kind=1|AlternatePart= 
+Variation12=Designator=R1|UniqueId=\CGLIRIOF|Kind=1|AlternatePart= 
+Variation13=Designator=D3|UniqueId=\MBXXFNSS|Kind=1|AlternatePart= 
+Variation14=Designator=C13|UniqueId=\GYNGEMOW|Kind=1|AlternatePart= 
+Variation15=Designator=C11|UniqueId=\WCREKXWK|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Bill of Materials-Scheme.xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\BOM\Bill of Materials-Scheme.xls
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\NC Drill\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerber\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument34]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\ExportSTEP\PCB1.step
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.step
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\Gerbers_Drill\PCB1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\NC Drill\PCB1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for DC-DC_LED_driver_v5.3\PCB1.TXT
 DItemRevisionGUID=
 
 [Configuration1]
